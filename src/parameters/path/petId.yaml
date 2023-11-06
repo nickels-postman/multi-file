@@ -1,6 +1,6 @@
 name: petId
 in: path
 required: true
-description: The id of the pet to retrieve
+description: The id of the pet to retrieve TEST UPDATE
 schema:
   type: string
